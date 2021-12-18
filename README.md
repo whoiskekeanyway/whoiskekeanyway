@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning React, Studing to get my AWS Cloud Practiioner Certificate
 - ⚡ Fun fact: I like Hiking, Photography andi love plants and nature
 
-🥅 2022 Goals:
-🎮 Getting my AWS Cloud Certificate
-💻 Become proficient with React and JavaScript
-🛸 Contribute more to Open Source projects
-📄 Get my first Job in Tech
-📷 First Photography Exhibition
+🥅 2022 Goals: <br />
+🎮 Getting my AWS Cloud Certificate <br />
+💻 Become proficient with React and JavaScript <br />
+🛸 Contribute more to Open Source projects <br />
+📄 Get my first Job in Tech <br />
+📷 First Photography Exhibition <br />
 
 ### Languages 
 
