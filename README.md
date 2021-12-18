@@ -1,6 +1,6 @@
 ### Hi there, Hi there, I'm Seun - aka ScriptsandTags  👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on HashTag Generator - (https://hashsnap.netlify.app/)
 - 🌱 I’m currently learning React, Studing to get my AWS Cloud Practiioner Certificate
 - ⚡ Fun fact: I like Hiking, Photography andi love plants and nature
 
