@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I like Hiking, Photography andi love plants and nature
 
 🥅 2022 Goals: <br />
-🎮 Getting my AWS Cloud Certificate <br />
+🎮 Getting my AWS Cloud Certificate Practioner <br />
 💻 Become proficient with React and JavaScript <br />
 🛸 Contribute more to Open Source projects <br />
 📄 Get my first Job in Tech <br />
