@@ -11,11 +11,12 @@
 📄 Get my first Job in Tech
 📷 First Photography Exhibition
 
-Languages 
+### Languages 
+
 ![icons8-html-5-96](https://user-images.githubusercontent.com/71834585/146639142-60116ece-8662-4c6a-ae44-fc775ae2e0f5.png)
 ![icons8-css3-96](https://user-images.githubusercontent.com/71834585/146639161-956645f6-bb1e-4576-99ac-e13a5f76faf2.png)
 ![icons8-javascript-96](https://user-images.githubusercontent.com/71834585/146639176-867fa82a-9d15-487c-bfca-c5db94d9bd53.png)
-![react-1-logo-png-transparent-96](https://user-images.githubusercontent.com/71834585/146639228-74e470ce-1949-4e90-837e-18438f994cfc.png)
+
 
 
 
