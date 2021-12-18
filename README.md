@@ -12,9 +12,7 @@
 📷 First Photography Exhibition
 
 Languages 
-![image](https://user-images.githubusercontent.com/71834585/146638948-bf738418-2131-4230-a731-367b2479bf32.png)
-![image](https://user-images.githubusercontent.com/71834585/146638950-51d72fbf-b53d-495b-9920-4095cc5a34e5.png)
-![image](https://user-images.githubusercontent.com/71834585/146638955-a0e6f724-b814-43c7-a50a-2ac223a0d0e2.png)
+<i class="fab fa-html5"></i>
 
 
 <!--
