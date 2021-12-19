@@ -13,7 +13,7 @@
 
 
 ### Connect with me 
-[https://www.linkedin.com/in/seunogundele/] (https://user-images.githubusercontent.com/71834585/146664595-88e5f9b1-dfd1-4dc5-b975-6821a996461f.jpg)
+
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/71834585/146664595-88e5f9b1-dfd1-4dc5-b975-6821a996461f.jpg)
 
 
