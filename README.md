@@ -1,15 +1,20 @@
-### Hi there, Hi there, I'm Seun - aka ScriptsandTags  👋
+### Hi there, I'm Seun - aka ScriptsandTags  👋
 
 - 🔭 I’m currently working on HashTag Generator - (https://hashsnap.netlify.app/)
 - 🌱 I’m currently learning React, Studing to get my AWS Cloud Practiioner Certificate
 - ⚡ Fun fact: I like Hiking, Photography andi love plants and nature
 
-🥅 2022 Goals: <br />
+🥅 ### 2022 Goals: <br />
 🎮 Getting my AWS Cloud Certificate Practioner <br />
 💻 Become proficient with React and JavaScript <br />
 🛸 Contribute more to Open Source projects <br />
 📄 Get my first Job in Tech <br />
 📷 First Photography Exhibition <br />
+
+
+### Connect with me 
+![Webp net-resizeimage](https://www.linkedin.com/in/seunogundele/)
+
 
 ### Languages 
 
