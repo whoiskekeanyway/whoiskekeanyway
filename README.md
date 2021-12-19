@@ -13,7 +13,8 @@
 
 
 ### Connect with me 
-![Webp net-resizeimage](https://www.linkedin.com/in/seunogundele/)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/71834585/146664595-88e5f9b1-dfd1-4dc5-b975-6821a996461f.jpg)
+
 
 
 ### Languages 
@@ -22,7 +23,7 @@
 ![icons8-css3-96](https://user-images.githubusercontent.com/71834585/146639161-956645f6-bb1e-4576-99ac-e13a5f76faf2.png)
 ![icons8-javascript-96](https://user-images.githubusercontent.com/71834585/146639176-867fa82a-9d15-487c-bfca-c5db94d9bd53.png)
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/71834585/146640129-caec4bf0-6127-4c39-b4ac-c3af69754187.png)
-![Webp net-resizeimage](https://user-images.githubusercontent.com/71834585/146640236-7aae5398-1b59-4f3c-b45c-383c1bfd8087.png)
+![https://www.linkedin.com/in/seunogundele/](https://user-images.githubusercontent.com/71834585/146640236-7aae5398-1b59-4f3c-b45c-383c1bfd8087.png)
 
 
 
