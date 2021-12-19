@@ -23,10 +23,9 @@
 ![icons8-css3-96](https://user-images.githubusercontent.com/71834585/146639161-956645f6-bb1e-4576-99ac-e13a5f76faf2.png)
 ![icons8-javascript-96](https://user-images.githubusercontent.com/71834585/146639176-867fa82a-9d15-487c-bfca-c5db94d9bd53.png)
 ![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/71834585/146640129-caec4bf0-6127-4c39-b4ac-c3af69754187.png)
-![https://www.linkedin.com/in/seunogundele/](https://user-images.githubusercontent.com/71834585/146640236-7aae5398-1b59-4f3c-b45c-383c1bfd8087.png)
 
 
-zzzzzzzzzz
+
 
 
 <!--
