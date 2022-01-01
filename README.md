@@ -37,14 +37,15 @@
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/-git-white?logo=git&logoColor=F05032&style=for-the-badge" alt="git"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-github-white?logo=github&logoColor=181717&style=for-the-badge" alt="github"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=f3b45c&style=for-the-badge" alt="Figma"/></a>
 
 ### IDE
 
 <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/-sublime-white?logo=sublimetext&logoColor=FF9800&style=for-the-badge"  alt="sublimetext"/></a>
 <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/-vscode_text-white?logo=visualstudiocode&logoColor=0078d7&style=for-the-badge" alt="vscode"/></a>
 
+### Wireframing and Proptotyping 
 
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/-Figma-white?logo=figma&logoColor=f3b45c&style=for-the-badge" alt="Figma"/></a>
 
 ### <h3>Cloud & Hosting</h3>
 
