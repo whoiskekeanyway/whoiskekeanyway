@@ -1,15 +1,3 @@
-### Hi there, I'm Seun
-
-
-
-🥅 ### 2022 Goals: <br />
-🎮 Getting my AWS Cloud Certificate Practioner <br />
-💻 Become proficient with React and JavaScript <br />
-🛸 Contribute more to Open Source projects <br />
-📄 Get my first Job in Tech <br />
-📷 First Photography Exhibition <br />
-
-
 ### Connect with me 
 
  <a href="https://www.linkedin.com/in/seunogundele/">
